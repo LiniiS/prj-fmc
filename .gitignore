@@ -1,0 +1,30 @@
+# Ignore arquivos de configuração do IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignore diretório de saída de compilação padrão do IntelliJ
+out/
+
+# Arquivos temporários de sistema operacional Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup do editor
+*~
+
+# Arquivos de compilação Java
+*.class
+
+# Configurações de execução/debug do IntelliJ
+*.iws
+*.ipr
+*.bak
+
+# Arquivos gerados por builds manuais (opcional)
+bin/
+build/
+target/
